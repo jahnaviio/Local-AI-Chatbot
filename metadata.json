@@ -1,0 +1,6 @@
+{
+  "name": "Local AI Chatbot using Ollama",
+  "description": "An interactive student portfolio hub and code generator for building a local AI chatbot using Python, Streamlit, and Ollama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
