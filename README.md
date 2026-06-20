@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Local AI Chatbot using Ollama
 
-# Run and deploy your AI Studio app
+A lightweight, locally hosted AI chatbot built using Python, Streamlit, Ollama, and Llama 3.2. The application provides conversational assistance, study support, coding help, resume guidance, and general question answering while running entirely on the user's machine without relying on cloud APIs.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/4775809f-a8c1-44f2-bef0-5e298bc5d977
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🚀 Features
+💬 Interactive AI Chat Interface
+🖥️ Fully Local Execution using Ollama
+🤖 Powered by Llama 3.2
+📚 Study Support and Learning Assistance
+💻 Basic Coding Help
+📄 Resume and Career Guidance
+🔒 No Cloud Dependency
+📝 Chat History Support
+🧹 Clear Chat Functionality
+👋 Custom Greeting Response
+🛠️ Tech Stack
+Python
+Streamlit
+Ollama
+Llama 3.2
+Generative AI
+GitHub
+VS Code
